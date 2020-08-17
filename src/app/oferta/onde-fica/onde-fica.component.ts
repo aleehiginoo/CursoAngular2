@@ -24,5 +24,4 @@ export class OndeFicaComponent implements OnInit {
         .then((descricao: string) => this.ondeFica = descricao)
     })
   }
-
 }

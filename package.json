@@ -22,9 +22,9 @@
     "bootstrap": "^4.5.2",
     "intl": "^1.2.5",
     "jquery": "^3.5.1",
+    "popper.js": "^1.12.5",
     "rxjs": "~6.5.5",
     "rxjs-compat": "^6.6.2",
-    "tether": "^1.4.7",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.3"
   },
