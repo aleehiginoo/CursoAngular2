@@ -18,7 +18,7 @@ export class OrdemCompraService {
     headers.append('Content-type', 'application/json');
 
     return this.http
-      .post(`${URL_API}/pedidos`, JSON.stringify(pedido), {
+      .post(`${URL_API}/pedidos`, pedido, {
         headers: headers,
       })
       .map((resposta: any) => resposta.id);
