@@ -192,6 +192,41 @@
       "complemento": "Fundos",
       "formaDePagamento": "dinheiro",
       "id": 1
+    },
+    {
+      "endereco": "alejkfaj",
+      "numero": "1254",
+      "complemento": "12354",
+      "formaDePagamento": "dinheiro",
+      "id": 2
+    },
+    {
+      "endereco": "Rua Santa Terezinha",
+      "numero": "184",
+      "complemento": "Fundos",
+      "formaDePagamento": "dinheiro",
+      "id": 3
+    },
+    {
+      "endereco": "Rua Noruega",
+      "numero": "274",
+      "complemento": "casa",
+      "formaDePagamento": "debito",
+      "id": 4
+    },
+    {
+      "endereco": "Rua das Rosas",
+      "numero": "651",
+      "complemento": "fundo",
+      "formaDePagamento": "dinheiro",
+      "id": 5
+    },
+    {
+      "endereco": "Rua aqui",
+      "numero": "ça",
+      "complemento": "la",
+      "formaDePagamento": "dinheiro",
+      "id": 6
     }
   ]
 }

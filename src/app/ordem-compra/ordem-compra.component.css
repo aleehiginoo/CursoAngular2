@@ -2,3 +2,13 @@
     margin-bottom: 150px;
     margin-top: 50px;
 }
+
+input.ng-invalid.ng-touched,
+select.ng-invalid.ng-touched {
+    border: 1px solid red;
+}
+
+input.ng-valid.ng-touched,
+select.ng-valid.ng-touched {
+    border: 1px solid green;
+}
