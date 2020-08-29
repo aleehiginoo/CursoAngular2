@@ -194,39 +194,59 @@
       "id": 1
     },
     {
-      "endereco": "alejkfaj",
-      "numero": "1254",
-      "complemento": "12354",
+      "endereco": "Rua das mangas",
+      "numero": "120",
+      "complemento": "fundo",
       "formaDePagamento": "dinheiro",
       "id": 2
     },
     {
-      "endereco": "Rua Santa Terezinha",
-      "numero": "184",
-      "complemento": "Fundos",
+      "endereco": "aasdf",
+      "numero": "asdf",
+      "complemento": "asdf",
       "formaDePagamento": "dinheiro",
+      "itens": [
+        {
+          "id": 4,
+          "img": {
+            "url": "/assets/ofertas/4/img1.jpg"
+          },
+          "titulo": "Estância das águas",
+          "descricao_oferta": "Diversão garantida com piscinas, trilhas e muito mais.",
+          "valor": 31.9,
+          "quantidade": 2
+        }
+      ],
       "id": 3
     },
     {
-      "endereco": "Rua Noruega",
-      "numero": "274",
-      "complemento": "casa",
+      "endereco": "Alexandre ",
+      "numero": "123",
+      "complemento": "asdf",
       "formaDePagamento": "debito",
+      "itens": [
+        {
+          "id": 4,
+          "img": {
+            "url": "/assets/ofertas/4/img1.jpg"
+          },
+          "titulo": "Estância das águas",
+          "descricao_oferta": "Diversão garantida com piscinas, trilhas e muito mais.",
+          "valor": 31.9,
+          "quantidade": 3
+        },
+        {
+          "id": 1,
+          "img": {
+            "url": "/assets/ofertas/1/img1.jpg"
+          },
+          "titulo": "Super Burger",
+          "descricao_oferta": "Rodízio de Mini-hambúrger com opção de entrada.",
+          "valor": 29.9,
+          "quantidade": 1
+        }
+      ],
       "id": 4
-    },
-    {
-      "endereco": "Rua das Rosas",
-      "numero": "651",
-      "complemento": "fundo",
-      "formaDePagamento": "dinheiro",
-      "id": 5
-    },
-    {
-      "endereco": "Rua aqui",
-      "numero": "ça",
-      "complemento": "la",
-      "formaDePagamento": "dinheiro",
-      "id": 6
     }
   ]
 }
